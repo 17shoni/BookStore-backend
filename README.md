@@ -1,6 +1,5 @@
 # BookStore-backend
 This is a Spring Boot backend for a bookstore system that supports book management, authentication, and pagination.
-The port number is 9090
 
  ## Features
 - CRUD operations for books
